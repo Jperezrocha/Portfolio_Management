@@ -63,6 +63,3 @@ The analysis covers multiple time periods:
 - Since Inception (from 2015)
 - Year to Date (YTD)
 - Current Semester (Fall 2024)
-
-## Note
-This automation tool is specifically designed for the Student Managed Fund's portfolio analysis needs, providing consistent and reliable analysis for portfolio management decisions.
