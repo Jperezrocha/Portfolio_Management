@@ -1,6 +1,3 @@
-# Portfolio_Management
-
-
 # SMF Portfolio Analysis Automation
 
 ## Overview
